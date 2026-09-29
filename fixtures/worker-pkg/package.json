@@ -1,0 +1,9 @@
+{
+  "name": "worker-pkg",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "./esm": "./dist/esm.js",
+    "./cjs": "./dist/cjs.cjs"
+  }
+}
